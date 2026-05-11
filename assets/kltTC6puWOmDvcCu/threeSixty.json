@@ -1,0 +1,27 @@
+{
+  "version": "3.87.32265.0",
+  "course_id": "6h5j5oO6yIc",
+  "title": "Improving Readability - Supercharging your sentences 1",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6rGchUXTysK",
+      "title": "Base",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 820,
+    "height": 846
+  },
+  "stage": {
+    "width": 800,
+    "height": 775
+  }
+}

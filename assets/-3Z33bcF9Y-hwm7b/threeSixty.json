@@ -1,0 +1,27 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "5r2Y8eRv7kV",
+  "title": "Improving Readability - Keeping it short and simple 2",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5hQJndeYC9M",
+      "title": "Slider – 0-1",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 820,
+    "height": 171
+  },
+  "stage": {
+    "width": 800,
+    "height": 100
+  }
+}

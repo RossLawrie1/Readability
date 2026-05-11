@@ -1,0 +1,27 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "6eYXzX0Gk4l",
+  "title": "Improving Readability - Using the active voice 3",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6rGchUXTysK",
+      "title": "Base",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 596,
+    "height": 120
+  },
+  "stage": {
+    "width": 576,
+    "height": 100
+  }
+}
